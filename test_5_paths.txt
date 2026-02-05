@@ -1,0 +1,5 @@
+F:\study
+F:\study\.quint
+F:\study\.quint\agents
+F:\study\.quint\decisions
+F:\study\.quint\evidence

@@ -1,0 +1,4 @@
+# Ignore test directories
+test_folder/
+__pycache__/
+*.pyc
